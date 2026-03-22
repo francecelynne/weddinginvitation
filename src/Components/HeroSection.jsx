@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 // import bgMusic from '../src/assets/audio/goodness-of-god-piano-instrumenta.org.mp3';
-
+import bgMusic from '../public/audio/goodness-of-god-piano.mp3';
 function HeroSection() {
   const [count, setCount] = useState(0)
 
@@ -20,7 +20,8 @@ function HeroSection() {
             </div>
             <div>
               <audio autoPlay loop >
-                <source src={"../src/public/audio/goodness-of-god-piano-instrumenta.org.mp3"} type="audio/mpeg" />
+                {/* <source src={"../src/public/audio/goodness-of-god-piano-instrumenta.org.mp3"} type="audio/mpeg" /> */}
+                <source src={bgMusic} type="audio/mpeg" />
                 Your browser does not support the audio element.
               </audio>
             </div>
