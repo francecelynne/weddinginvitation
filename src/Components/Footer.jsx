@@ -13,7 +13,7 @@ function Footer() {
         <div className='border-t-4  h-1 w-2/12 border-white' />
         <div className='flex justify-center items-center gap-5 mt-5 md:w-6/12 w-12/12 lg:flex-row flex-col-reverse'>
             <div className=" w-4/12">
-                <img src="../src/assets/img/qr.jpg" alt="" width="200px" className=''/>
+                <img src="/img/qr.jpg" alt="" width="200px" className=''/>
             </div>
             <div className="flex flex-col w-8/12">
                 <span className='text-white! font-[SparklingValentine]! lg:text-4xl text-2xl'>
