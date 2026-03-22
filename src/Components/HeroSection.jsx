@@ -20,7 +20,7 @@ function HeroSection() {
             </div>
             <div>
               <audio autoPlay loop >
-                <source src={"../src/assets/audio/goodness-of-god-piano-instrumenta.org.mp3"} type="audio/mpeg" />
+                <source src={"../src/public/audio/goodness-of-god-piano-instrumenta.org.mp3"} type="audio/mpeg" />
                 Your browser does not support the audio element.
               </audio>
             </div>
