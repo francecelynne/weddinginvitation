@@ -15,7 +15,18 @@ function RSVP() {
         </span>
         <div className='border-t-4  h-1 w-2/12 border-white'></div>
         <div className='flex justify-center items-center gap-5 mt-10'>
-           
+           <div className="w-full h-screen">
+                <iframe
+                    src="https://docs.google.com/forms/d/e/1FAIpQLSdVV5uqST57o4-kJF-7OQuDCxJd_EixG3AZbx3uqfxEz2Jp0g/viewform?embedded=true"
+                    width="100%"
+                    height="100%"
+                    frameBorder="0"
+                    marginHeight="0"
+                    marginWidth="0"
+                >
+                    Loading…
+                </iframe>
+            </div>
         </div>
     </div>
     </>
