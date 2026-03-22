@@ -1,5 +1,6 @@
 import { useState } from 'react'
 
+// import bgMusic from '../src/assets/audio/goodness-of-god-piano-instrumenta.org.mp3';
 
 function HeroSection() {
   const [count, setCount] = useState(0)
@@ -16,6 +17,12 @@ function HeroSection() {
                   France & Celynne
                 </span>
                 <span className='text-white w-fit px-5 py-1 rounded-2xl'>WEDNESYDAY, APRIL 22, 2026</span>
+            </div>
+            <div>
+              <audio autoPlay loop >
+                <source src={"../src/assets/audio/goodness-of-god-piano-instrumenta.org.mp3"} type="audio/mpeg" />
+                Your browser does not support the audio element.
+              </audio>
             </div>
         </div>
       </section>
