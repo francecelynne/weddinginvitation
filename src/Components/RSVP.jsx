@@ -14,7 +14,7 @@ function RSVP() {
             Please let us know if you'll be able to join us
         </span>
         <div className='border-t-4  h-1 w-2/12 border-white'></div>
-        <div className='flex justify-center items-center gap-5 mt-10'>
+        <div className='flex justify-center items-center gap-5 mt-5'>
            <div className="lg:w-[50dvw] w-screen h-screen p-10">
                 <iframe
                     src="https://docs.google.com/forms/d/e/1FAIpQLSdVV5uqST57o4-kJF-7OQuDCxJd_EixG3AZbx3uqfxEz2Jp0g/viewform?embedded=true"

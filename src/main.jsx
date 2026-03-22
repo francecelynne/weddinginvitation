@@ -14,7 +14,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <HeroSection />
     <DayCounter />
-    <Entourage />
+    {/* <Entourage /> */}
     <WeddingTimeline />
     <Location />
     <AttireInspiration />

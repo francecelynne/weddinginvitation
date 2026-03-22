@@ -61,7 +61,7 @@ function FlipDigit({ value, label }) {
             transform: flipping ? "rotateX(90deg)" : "rotateX(0deg)",
             transition: "transform 0.2s cubic-bezier(0.4,0,0.2,1)",
             display: "block",
-            textShadow: "0 0 20px rgba(99,179,237,0.3)",
+            // textShadow: "0 0 20px rgba(99,179,237,0.3)",
           }}
         >
           {displayVal}
