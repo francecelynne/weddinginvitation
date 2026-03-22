@@ -15,14 +15,14 @@ function Location() {
             </span>
             <div className='flex gap-5 items-center flex-col md:flex-row'>
                 <div className="md:w-6/12 w-12/12 h-70  md:h-125">
-                    {/* <img src="../src/assets/img/kiss.jpg" height='500'/> */}
-                    <video
+                    <img src="../src/assets/img/TheHeritage.jfif" height='' width='cover' className='h-full w-cover'/>
+                    {/* <video
                         className="w-full h-full object-cover"
                         src="../src/assets/video/TheHeritage179.mp4"
                         autoPlay
                         muted
                         loop
-                    />
+                    /> */}
                 </div>
                 <div className="md:w-6/12 w-12/12 h-70  md:h-125">
                     <iframe
