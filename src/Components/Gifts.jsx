@@ -20,7 +20,7 @@ function Gifts() {
                 But if you’d like to share a little something, monetary gifts are sincerely appreciated.
             </span>
         </div>
-        <img src="./img/flower1.jpg" alt="" width="600px" className='absolute -right-40 -rotate-60 opacity-[0.2] lg:opacity-[1]'/>
+        <img src="img/flower1.jpg" alt="" width="600px" className='absolute -right-40 -rotate-60 opacity-[0.2] lg:opacity-[1]'/>
     </div>
     </>
   )

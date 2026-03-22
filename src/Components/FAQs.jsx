@@ -68,7 +68,7 @@ function FAQs() {
             </span>
         </div>
         
-        <img src="./img/flower2.jpg" alt="" width="1200px" className='absolute md:-left-70 -left-30 opacity-[0.2] lg:opacity-[1]'/>
+        <img src="img/flower2.jpg" alt="" width="1200px" className='absolute md:-left-70 -left-30 opacity-[0.2] lg:opacity-[1]'/>
     </div>
     </>
   )
