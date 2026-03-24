@@ -11,91 +11,185 @@ function Entourage() {
                 <span className='text-black! font-[SparklingValentine]! lg:text-6xl text-4xl'>
                     The Entourage
                 </span>
-                <span className='text-black/50 lg:text-md text-xs uppercase'>
+                <span className='text-black/50 text-md uppercase'>
                     With the praise and thanksgiving to God and blessing from our beloved parents
                 </span>
                 <div className='flex gap-5 justify-center items-start'>
                     <div className='flex flex-col'>
-                        <span className='text-black font-semibold font-[roboto]! lg:text-md text-xs uppercase text-right'>
+                        <span className='text-black font-semibold font-[roboto]! text-lg uppercase text-right'>
                             Parents of the groom
                         </span>
-                        <span className='text-black/50 lg:text-md text-xs uppercase text-right'>
-                            Oliver L. Samaniego
+                        <span className='text-black/50 text-md uppercase text-right'>
+                            Mr. Oliver L. Samaniego
                         </span>
-                        <span className='text-black/50 lg:text-md text-xs uppercase text-right'>
-                            Belinda L. Maon
+                        <span className='text-black/50 text-md uppercase text-right'>
+                            Mrs. Belinda L. Maon
                         </span>
                     </div>
                     <div className='flex flex-col'>
-                        <span className='text-black font-semibold font-[roboto]! lg:text-md text-xs uppercase text-left'>
-                            Parents of the groom
+                        <span className='text-black font-semibold font-[roboto]! text-lg uppercase text-left'>
+                            Parents of the bride
                         </span>
-                        <span className='text-black/50 lg:text-md text-xs uppercase text-left'>
-                            Benelyn P. Esguerra
+                        <span className='text-black/50 text-md  uppercase text-left'>
+                            Mrs. Benelyn P. Esguerra
                         </span>
                     </div>
                 </div>
                 
-                <span className='text-black/50 lg:text-md text-xs uppercase'>
-                    To stand as witness to our vows
-                </span>
                 <div>
-                    <span className='text-black font-semibold font-[roboto]! lg:text-md text-xs uppercase'>
-                        principal sponsors
-                    </span>
+                    <div className='flex flex-col mb-3'>
+                        <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
+                            Grandparents
+                        </span>
+                    </div>
                     <div className='flex gap-5 justify-center items-start'>
                         
                         <div className='flex flex-col'>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-right'>
-                                Ronald Samaniego
-                            </span>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-right'>
-                                Lito ortega
-                            </span>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-right'>
-                                Frankie dela cruz
+                            <span className='text-black/50 text-md uppercase text-right'>
+                                Mr. Tirso Esguerra
                             </span>
                         </div>
                         <div className='flex flex-col'>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-left'>
-                                Lorinda Samaniego
-                            </span>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-left'>
-                                Jass Lewis
-                            </span>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-left'>
-                                Bessie Punzalan
+                            <span className='text-black/50 text-md uppercase text-left'>
+                                Mrs. Eugenia Esguerra
                             </span>
                         </div>
                     </div>
                 </div>
+                
                 <div>
-                    <span className='text-black font-semibold font-[roboto]! lg:text-md text-xs uppercase'>
-                        Secondary sponsors
-                    </span>
+                    <div className='flex flex-col mb-3'>
+                        <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
+                            principal sponsors
+                        </span>
+                        <span className='text-black/50 text-sm uppercase font-semibold italic'>
+                            To stand as pricipal witnesses in our exchange of vows
+                        </span>
+
+                    </div>
                     <div className='flex gap-5 justify-center items-start'>
                         
                         <div className='flex flex-col'>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-right'>
-                                Ronald Samaniego
+                            <span className='text-black/50 text-md uppercase text-right'>
+                                Mr. Ronald Samaniego
                             </span>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-right'>
-                                Lito ortega
+                            <span className='text-black/50 text-md uppercase text-right'>
+                                Mr. Lito ortega
                             </span>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-right'>
-                                Frankie dela cruz
+                            <span className='text-black/50 text-md uppercase text-right'>
+                                Mr. Frankie dela cruz
                             </span>
                         </div>
                         <div className='flex flex-col'>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-left'>
-                                Lorinda Samaniego
+                            <span className='text-black/50 text-md uppercase text-left'>
+                                Ms. Lorinda Samaniego
                             </span>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-left'>
-                                Jass Lewis
+                            <span className='text-black/50 text-md uppercase text-left'>
+                                Mrs. Jass Lewis
                             </span>
-                            <span className='text-black/50 lg:text-md text-xs uppercase text-left'>
-                                Bessie Punzalan
+                            <span className='text-black/50 text-md uppercase text-left'>
+                                Mrs. Bessie Punzalan
                             </span>
+                        </div>
+                    </div>
+                </div>
+                 <div className='flex gap-10 justify-center'>
+                    <div className='flex flex-col mb-3'>
+                        <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
+                            Best Man
+                        </span>
+                        <span className='text-black/50 text-md uppercase'>
+                            Mr. Cyrille Esguerra
+                        </span>
+                    </div>
+                    <div className='flex flex-col mb-3'>
+                        <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
+                            Maid of Honor
+                        </span>
+                        <span className='text-black/50 text-md uppercase'>
+                            Ms. Ariana Perez
+                        </span>
+                    </div>
+                </div>
+                
+                <div>
+                    <span className='text-black font-semibold font-[roboto]! text-lg uppercase mb-3'>
+                        Secondary sponsors
+                    </span>
+                    <div className='flex gap-5 justify-center items-start'>
+                        <div className='flex gap-10 justify-center'>
+                            <div className='flex flex-col mb-3'>
+                                <span className='text-black/50 text-sm uppercase font-semibold italic'>
+                                    To light up our path
+                                </span>
+                                <div className='flex flex-col'>
+                                    <span className='text-black/50 text-md uppercase'>
+                                        Mr. Gian Cruz
+                                    </span>
+                                    <span className='text-black/50 text-md uppercase'>
+                                        Ms. Cienelyn Maica Esguerra
+                                    </span>
+                                </div>
+                            </div><div className='flex flex-col mb-3'>
+                                <span className='text-black/50 text-sm uppercase font-semibold italic'>
+                                    To clothe as us one
+                                </span>
+                                <div className='flex flex-col'>
+                                    <span className='text-black/50 text-md uppercase'>
+                                        Mr. Erwin Ortega
+                                    </span>
+                                    <span className='text-black/50 text-md uppercase'>
+                                        Mrs. Nica Ortega
+                                    </span>
+                                </div>
+                            </div>
+                            <div className='flex flex-col mb-3'>
+                                <span className='text-black/50 text-sm uppercase font-semibold italic'>
+                                    To bind us together
+                                </span>
+                                <div className='flex flex-col'>
+                                    <span className='text-black/50 text-md uppercase'>
+                                        Mr. Milton Samaniego
+                                    </span>
+                                    <span className='text-black/50 text-md uppercase'>
+                                        Ms. Erica Dela Cruz
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <span className='text-black/50 text-sm uppercase font-semibold italic  mb-3'>
+                        To carry our symbol of Love, Treasure, and Faith
+                    </span>
+                    <div className='flex gap-5 justify-center items-start'>
+                        <div className='flex gap-10 justify-center'>
+                            <div className='flex flex-col mb-3'>
+                                <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
+                                    Ring Bearer
+                                </span>
+                                <span className='text-black/50 text-md uppercase'>
+                                    Ms. Anya Maon
+                                </span>
+                            </div>
+                            <div className='flex flex-col mb-3'>
+                                <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
+                                    Coin Bearer
+                                </span>
+                                <span className='text-black/50 text-md uppercase'>
+                                    Mr. Christian Dela Cruz
+                                </span>
+                            </div>
+                            <div className='flex flex-col mb-3'>
+                                <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
+                                    Bible Bearer
+                                </span>
+                                <span className='text-black/50 text-md uppercase'>
+                                    Ms. Cathlyn Macey Esguerra
+                                </span>
+                            </div>
+                            
                         </div>
                     </div>
                 </div>

@@ -8,7 +8,6 @@ import Entourage from './Components/Entourage.jsx'
 import WeddingTimeline from './Components/WeddingTimeline.jsx'
 import Location from './Components/Location.jsx'
 import AttireInspiration from './Components/AttireInspiration.jsx'
-import RSVP from './Components/RSVP.jsx'
 import Gifts from './Components/Gifts.jsx'
 import FAQs from './Components/FAQs.jsx'
 import Footer from './Components/Footer.jsx'
@@ -18,11 +17,10 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <HeroSection />
     <DayCounter />
-    {/* <Entourage /> */}
+    <Entourage />
     <WeddingTimeline />
     <Location />
     <AttireInspiration />
-    {/* <RSVP /> */}
     <Gifts />
     <FAQs />
     <RSVPForm />
