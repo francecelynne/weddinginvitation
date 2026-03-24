@@ -85,7 +85,7 @@ export default function RSVPForm() {
         <p className="text-xs uppercase tracking-widest text-white/50 mb-2 font-semibold">
           You're Invited
         </p>
-        <h1 className="text-white font-[SparklingValentine]! lg:text-6xl text-4xl font-normal leading-tight mb-2">
+        <h1 className="text-white! font-[SparklingValentine]! lg:text-6xl text-4xl font-normal leading-tight mb-2">
           Wedding RSVP
         </h1>
         <p className="font-serif italic text-lg text-white/50 leading-relaxed">
