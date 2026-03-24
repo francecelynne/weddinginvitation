@@ -17,7 +17,7 @@ function FAQs() {
             </span>
             <br/>
             <span className='text-black/50 text-sm '>
-                No worries at all - just send us a quick message if we don’t hear from you by April 1, we’ll happily count you in
+                No worries at all! Just send us a quick message. If we don’t hear from you by April 1, we’ll assume you can’t make it and offer your spot to others.
             </span>
         </div>
         <div className='flex flex-col gap-1 lg:w-5/12 w-10/12 lg:ml-100  border p-5 rounded z-10'>

@@ -6,7 +6,7 @@ function Footer() {
 
   return (
     <>
-    <div className='bg-[#545454] py-20 px-5 flex flex-col gap-5 mt-10 justify-center items-center'>
+    <div className='bg-[#545454] py-20 px-5 flex flex-col gap-5 justify-center items-center'>
         <span className='text-white! font-[SparklingValentine]! lg:text-6xl text-4xl'>
             With Love, France & Celynne
         </span>

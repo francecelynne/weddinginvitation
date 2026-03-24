@@ -8,8 +8,10 @@ function HeroSection() {
   return (
     <>
       <section>
+         
         <div className="h-screen bg-[url(/img/kiss.jpg)] bg-no-repeat bg-center 
-                        bg-cover grayscale flex justify-center items-start relative">
+                        bg-cover grayscale flex justify-center items-start relative
+                        ">
             <div className='flex flex-col items-center gap-5 w-screen bg-linear-to-b from-black pt-20! h-screen'>
                 <span className='text-white'>A WEDDING OF</span>
                 <span className='text-white! font-[SparklingValentine]! md:text-[160px] text-[50px]

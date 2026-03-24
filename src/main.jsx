@@ -12,6 +12,7 @@ import RSVP from './Components/RSVP.jsx'
 import Gifts from './Components/Gifts.jsx'
 import FAQs from './Components/FAQs.jsx'
 import Footer from './Components/Footer.jsx'
+import RSVPForm from './Components/RSVPForm.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -21,9 +22,10 @@ createRoot(document.getElementById('root')).render(
     <WeddingTimeline />
     <Location />
     <AttireInspiration />
-    <RSVP />
+    {/* <RSVP /> */}
     <Gifts />
     <FAQs />
+    <RSVPForm />
     <Footer />
   </StrictMode>,
 )
