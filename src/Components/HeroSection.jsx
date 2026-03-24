@@ -23,7 +23,7 @@ function HeroSection() {
                 
             </div>
             
-              <div className='absolute bottom-30 opacity-0'>
+              <div className='absolute bottom-30 opacity-0!'>
                 <audio loop controls autoPlay>
                   {/* <source src={"../src/public/audio/goodness-of-god-piano-instrumenta.org.mp3"} type="audio/mpeg" /> */}
                   <source src={bgMusic} type="audio/mpeg" />
