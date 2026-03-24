@@ -13,12 +13,14 @@ function HeroSection() {
                         bg-cover grayscale flex justify-center items-start relative
                         ">
             <div className='flex flex-col items-center gap-5 w-screen bg-linear-to-b from-black pt-20! h-screen'>
-                <span className='text-white'>A WEDDING OF</span>
+                <span className='text-white'>THE WEDDING OF</span>
                 <span className='text-white! font-[SparklingValentine]! md:text-[160px] text-[50px]
                                  z-10 text-shadow-sm text-stroke-gray-900 leading-none'>
                   France & Celynne
                 </span>
-                <span className='text-white w-fit px-5 py-1 rounded-2xl'>WEDNESYDAY, APRIL 22, 2026</span>
+                
+                <div className='border-t-4  h-1 w-2/12 border-white'/>
+                <span className='text-white w-fit px-5 py-1 rounded-2xl'>WEDNESDAY, APRIL 22, 2026</span>
                 
             </div>
             

@@ -16,7 +16,7 @@ function RSVP() {
         <span className='text-white/50 text-md uppercase'>
             we can’t wait to celebrate this special day with you, and would be so grateful to receive your response on or before april 01, 2026
         </span>
-        <div className='border-t-4  h-1 w-2/12 border-white'></div>
+        <div className='border-t-4  h-1 w-2/12 border-white'/>
         <div className='flex justify-center items-center gap-5 mt-5'>
            <div className="lg:w-[50dvw] w-screen h-screen p-10">
                 <iframe
