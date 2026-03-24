@@ -19,7 +19,6 @@ function HeroSection() {
                   France & Celynne
                 </span>
                 
-                <div className='border-t-4  h-1 w-2/12 border-white'/>
                 <span className='text-white w-fit px-5 py-1 rounded-2xl'>WEDNESDAY, APRIL 22, 2026</span>
                 
             </div>
