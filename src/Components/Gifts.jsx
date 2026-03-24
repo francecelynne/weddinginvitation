@@ -10,7 +10,7 @@ function Gifts() {
         <span className='text-black! font-[SparklingValentine]! lg:text-6xl text-4xl z-10'>
             Gifts
         </span>
-        <div className='flex flex-col gap-1 lg:mr-100 lg:w-5/12 w-10/12 z-10'>
+        <div className='flex flex-col gap-1  lg:w-5/12 w-10/12 z-10'>
             <br/>
             <span className='text-black/50 text-sm uppercase'>
                 Your presence truly means the word to us, and that’s already the best gift we could ever ask for.

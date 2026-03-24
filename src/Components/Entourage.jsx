@@ -14,15 +14,15 @@ function Entourage() {
                 <span className='text-black/50 text-md uppercase'>
                     With the praise and thanksgiving to God and blessing from our beloved parents
                 </span>
-                <div className='flex gap-5 justify-center items-start'>
+                <div className='flex gap-3 lg:gap-10 justify-center flex-wrap'>
                     <div className='flex flex-col'>
                         <span className='text-black font-semibold font-[roboto]! text-lg uppercase text-right'>
                             Parents of the groom
                         </span>
-                        <span className='text-black/50 text-md uppercase text-right'>
+                        <span className='text-black/50 text-md uppercase lg:text-right text-center'>
                             Mr. Oliver L. Samaniego
                         </span>
-                        <span className='text-black/50 text-md uppercase text-right'>
+                        <span className='text-black/50 text-md uppercase lg:text-right text-center'>
                             Mrs. Belinda L. Maon
                         </span>
                     </div>
@@ -30,7 +30,7 @@ function Entourage() {
                         <span className='text-black font-semibold font-[roboto]! text-lg uppercase text-left'>
                             Parents of the bride
                         </span>
-                        <span className='text-black/50 text-md  uppercase text-left'>
+                        <span className='text-black/50 text-md  uppercase lg:text-right text-center'>
                             Mrs. Benelyn P. Esguerra
                         </span>
                     </div>
@@ -93,7 +93,7 @@ function Entourage() {
                         </div>
                     </div>
                 </div>
-                 <div className='flex gap-10 justify-center'>
+                 <div className='flex gap-3 lg:gap-10 justify-center flex-wrap'>
                     <div className='flex flex-col mb-3'>
                         <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
                             Best Man
@@ -117,7 +117,7 @@ function Entourage() {
                         Secondary sponsors
                     </span>
                     <div className='flex gap-5 justify-center items-start'>
-                        <div className='flex gap-10 justify-center'>
+                        <div className='flex gap-3 lg:gap-10 justify-center flex-wrap'>
                             <div className='flex flex-col mb-3'>
                                 <span className='text-black/50 text-sm uppercase font-semibold italic'>
                                     To light up our path
@@ -164,7 +164,7 @@ function Entourage() {
                         To carry our symbol of Love, Treasure, and Faith
                     </span>
                     <div className='flex gap-5 justify-center items-start'>
-                        <div className='flex gap-10 justify-center'>
+                        <div className='flex gap-3 lg:gap-10 justify-center flex-wrap'>
                             <div className='flex flex-col mb-3'>
                                 <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
                                     Ring Bearer
