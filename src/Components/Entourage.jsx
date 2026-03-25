@@ -19,7 +19,7 @@ function Entourage() {
                     <div className='flex gap-5 justify-center items-start'>
                         
                         <div className='flex flex-col'>
-                            <span className='text-black/50 text-md uppercase text-right'>
+                            <span className='text-black/50 text-sm uppercase text-right'>
                                 Ptr. Jamyl Marc Cruz
                             </span>
                         </div>
@@ -34,10 +34,10 @@ function Entourage() {
                         <span className='text-black font-semibold font-[roboto]! text-lg uppercase text-right'>
                             Parents of the groom
                         </span>
-                        <span className='text-black/50 text-md uppercase lg:text-right text-center'>
+                        <span className='text-black/50 text-sm uppercase lg:text-right text-center'>
                             Mr. Oliver L. Samaniego
                         </span>
-                        <span className='text-black/50 text-md uppercase lg:text-right text-center'>
+                        <span className='text-black/50 text-sm uppercase lg:text-right text-center'>
                             Mrs. Belinda L. Maon
                         </span>
                     </div>
@@ -45,7 +45,7 @@ function Entourage() {
                         <span className='text-black font-semibold font-[roboto]! text-lg uppercase text-left'>
                             Parents of the bride
                         </span>
-                        <span className='text-black/50 text-md  uppercase lg:text-right text-center'>
+                        <span className='text-black/50 text-sm  uppercase lg:text-right text-center'>
                             Mrs. Benelyn P. Esguerra
                         </span>
                     </div>
@@ -58,12 +58,12 @@ function Entourage() {
                     <div className='flex gap-5 justify-center items-start'>
                         
                         <div className='flex flex-col'>
-                            <span className='text-black/50 text-md uppercase text-right'>
+                            <span className='text-black/50 text-sm uppercase text-right'>
                                 Mr. Tirso Esguerra
                             </span>
                         </div>
                         <div className='flex flex-col'>
-                            <span className='text-black/50 text-md uppercase text-left'>
+                            <span className='text-black/50 text-sm uppercase text-left'>
                                 Mrs. Eugenia Esguerra
                             </span>
                         </div>
@@ -80,26 +80,26 @@ function Entourage() {
                         </span>
 
                     </div>
-                    <div className='flex gap-5 justify-center items-start'>
+                    <div className='flex gap-5 justify-center lg:items-start flex-col lg:flex-row items-center text-center'>
                         <div className='flex flex-col'>
-                            <span className='text-black/50 text-md uppercase text-right'>
+                            <span className='text-black/50 text-sm uppercase lg:text-right text-center'>
                                 Mr. Ronald Samaniego
                             </span>
-                            <span className='text-black/50 text-md uppercase text-right'>
+                            <span className='text-black/50 text-sm uppercase lg:text-right text-center'>
                                 Mr. Lito ortega
                             </span>
-                            <span className='text-black/50 text-md uppercase text-right'>
+                            <span className='text-black/50 text-sm uppercase lg:text-right text-center'>
                                 Mr. Frankie dela cruz
                             </span>
                         </div>
                         <div className='flex flex-col'>
-                            <span className='text-black/50 text-md uppercase text-left'>
+                            <span className='text-black/50 text-sm uppercase lg:text-left text-center'>
                                 Ms. Lorinda Samaniego
                             </span>
-                            <span className='text-black/50 text-md uppercase text-left'>
+                            <span className='text-black/50 text-sm uppercase lg:text-left text-center'>
                                 Mrs. Jass Lewis
                             </span>
-                            <span className='text-black/50 text-md uppercase text-left'>
+                            <span className='text-black/50 text-sm uppercase lg:text-left text-center'>
                                 Mrs. Bessie Punzalan
                             </span>
                         </div>
@@ -110,7 +110,7 @@ function Entourage() {
                         <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
                             Best Man
                         </span>
-                        <span className='text-black/50 text-md uppercase'>
+                        <span className='text-black/50 text-sm uppercase'>
                             Mr. Cyrille Esguerra
                         </span>
                     </div>
@@ -118,7 +118,7 @@ function Entourage() {
                         <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
                             Maid of Honor
                         </span>
-                        <span className='text-black/50 text-md uppercase'>
+                        <span className='text-black/50 text-sm uppercase'>
                             Ms. Ariana Perez
                         </span>
                     </div>
@@ -136,10 +136,10 @@ function Entourage() {
                                     To light up our path
                                 </span>
                                 <div className='flex flex-col'>
-                                    <span className='text-black/50 text-md uppercase'>
+                                    <span className='text-black/50 text-sm uppercase'>
                                         Mr. Gian Cruz
                                     </span>
-                                    <span className='text-black/50 text-md uppercase'>
+                                    <span className='text-black/50 text-sm uppercase'>
                                         Ms. Cienelyn Maica Esguerra
                                     </span>
                                 </div>
@@ -148,10 +148,10 @@ function Entourage() {
                                     To clothe as us one
                                 </span>
                                 <div className='flex flex-col'>
-                                    <span className='text-black/50 text-md uppercase'>
+                                    <span className='text-black/50 text-sm uppercase'>
                                         Mr. Erwin Ortega
                                     </span>
-                                    <span className='text-black/50 text-md uppercase'>
+                                    <span className='text-black/50 text-sm uppercase'>
                                         Mrs. Nica Ortega
                                     </span>
                                 </div>
@@ -161,10 +161,10 @@ function Entourage() {
                                     To bind us together
                                 </span>
                                 <div className='flex flex-col'>
-                                    <span className='text-black/50 text-md uppercase'>
+                                    <span className='text-black/50 text-sm uppercase'>
                                         Mr. Milton Samaniego
                                     </span>
-                                    <span className='text-black/50 text-md uppercase'>
+                                    <span className='text-black/50 text-sm uppercase'>
                                         Ms. Erica Dela Cruz
                                     </span>
                                 </div>
@@ -184,7 +184,7 @@ function Entourage() {
                                 <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
                                     Ring Bearer
                                 </span>
-                                <span className='text-black/50 text-md uppercase'>
+                                <span className='text-black/50 text-sm uppercase'>
                                     Ms. Anya Maon
                                 </span>
                             </div>
@@ -192,7 +192,7 @@ function Entourage() {
                                 <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
                                     Coin Bearer
                                 </span>
-                                <span className='text-black/50 text-md uppercase'>
+                                <span className='text-black/50 text-sm uppercase'>
                                     Mr. Christian Dela Cruz
                                 </span>
                             </div>
@@ -200,7 +200,7 @@ function Entourage() {
                                 <span className='text-black font-semibold font-[roboto]! text-lg uppercase'>
                                     Bible Bearer
                                 </span>
-                                <span className='text-black/50 text-md uppercase'>
+                                <span className='text-black/50 text-sm uppercase'>
                                     Ms. Cathlyn Macey Esguerra
                                 </span>
                             </div>
