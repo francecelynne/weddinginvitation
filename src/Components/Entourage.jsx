@@ -63,7 +63,7 @@ function Entourage() {
                             principal sponsors
                         </span>
                         <span className='text-black/50 text-sm uppercase font-semibold italic'>
-                            To stand as pricipal witnesses in our exchange of vows
+                            To stand as principal witnesses in our exchange of vows
                         </span>
 
                     </div>
