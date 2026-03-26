@@ -83,24 +83,24 @@ function Entourage() {
                     <div className='flex gap-5 justify-center lg:items-start flex-col lg:flex-row items-center text-center'>
                         <div className='flex flex-col'>
                             <span className='text-black/50 text-sm uppercase lg:text-right text-center'>
+                                Mr. Garry Valdecantos
+                            </span>
+                            <span className='text-black/50 text-sm uppercase lg:text-right text-center'>
+                                Mr. Lito Ortega
+                            </span>
+                            <span className='text-black/50 text-sm uppercase lg:text-right text-center'>
                                 Mr. Ronald Samaniego
-                            </span>
-                            <span className='text-black/50 text-sm uppercase lg:text-right text-center'>
-                                Mr. Lito ortega
-                            </span>
-                            <span className='text-black/50 text-sm uppercase lg:text-right text-center'>
-                                Mr. Frankie dela cruz
                             </span>
                         </div>
                         <div className='flex flex-col'>
                             <span className='text-black/50 text-sm uppercase lg:text-left text-center'>
-                                Ms. Lorinda Samaniego
+                                Mrs. Bessie Punzalan
                             </span>
                             <span className='text-black/50 text-sm uppercase lg:text-left text-center'>
                                 Mrs. Jass Lewis
                             </span>
                             <span className='text-black/50 text-sm uppercase lg:text-left text-center'>
-                                Mrs. Bessie Punzalan
+                                Ms. Lorinda Samaniego
                             </span>
                         </div>
                     </div>
